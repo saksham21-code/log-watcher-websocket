@@ -1,0 +1,4 @@
+com\example\demo\DemoApplication.class
+com\example\demo\service\LogWatcherService.class
+com\example\demo\config\WebSocketConfig.class
+com\example\demo\websocket\LogWebSocketHandler.class
