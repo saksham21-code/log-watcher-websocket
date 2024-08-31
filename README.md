@@ -10,7 +10,7 @@ This project is a Spring Boot-based application designed to perform real-time lo
 ## How to Run
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/log-watcher-websocket.git
+   git clone https://github.com/saksham21-code/log-watcher-websocket.git
    cd log-watcher-websocket
 
 
